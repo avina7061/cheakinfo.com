@@ -15,7 +15,7 @@
      <a href="http://lnct.ac.in" target="blank">lnct.com</a><br>
      <a href="http://youtube.com " target="blank">Go to youtube</a><br>
      <h5>For fill this form</h5>
-     <a href="http://avina7061.github.io/formfill.com/">Fill this form</a><br>
+     <a href="http://avina7061.github.io/formfill.com/" target="blank">Fill this form</a><br>
     <img src="http://source.unsplash.com/TCpfPxKPOvk/300x200" alt="error to downloading">
    
 <br>
